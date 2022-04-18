@@ -93,14 +93,14 @@ input[type="checkbox"]:checked::before
  #professional + #master
 {
     position: relative;
-    left: -68px;
+    left: -66px;
     top: 15px;
     display: block;
 }
 #basic
 {
     position: relative;
-    left: 205px;
+    left: 203px;
     top: 15px;
     display: block;
 }
